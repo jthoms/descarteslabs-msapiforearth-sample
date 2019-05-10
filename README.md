@@ -6,5 +6,5 @@ Pulls selected scenes from [Descartes Labs API](https://github.com/descarteslabs
 
 [Conda Install Script](setup.sh)
 
-## TODO: pipeline images to Microsoft [Microsoft API](https://aiforearth.portal.azure-api.net/docs/services/)
+TODO: pipeline images to Microsoft [Microsoft API](https://aiforearth.portal.azure-api.net/docs/services/)
 
