@@ -1,0 +1,1 @@
+# descarteslabs-msapiforearth-sample
