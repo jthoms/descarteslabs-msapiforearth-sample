@@ -1,5 +1,5 @@
 # descarteslabs-msapiforearth-sample
-Pulls selected scenes from [Descartes Labs API](https://github.com/descarteslabs/descarteslabs-python) National Agriculture Imagery Program dataset and pipelines images to [Microsoft AI for earth API](https://aiforearth.portal.azure-api.net/docs/services/)
+Pulls selected scenes from [Descartes Labs API](https://github.com/descarteslabs/descarteslabs-python) National Agriculture Imagery Program dataset and pipelines images to [Microsoft AI for earth API](https://aiforearth.portal.azure-api.net/docs/services/).
 Sample polygon is from Imperial Valley, CA.
 
 ## Installation
